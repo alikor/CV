@@ -1,0 +1,102 @@
+{
+"summary": "Engineering leader specialising in mobile and full-stack JavaScript, with extensive experience architecting and shipping React Native apps, TypeScript/Node.js backends, and AWS-based cloud services. Adept at building secure, observable, and scalable platforms while leading and mentoring cross-functional teams. Proven track record delivering offline-first, geospatial, and health-focused mobile experiences, embedding CI/CD, contract testing, and event-driven patterns. Passionate about creating consumer-grade fitness and health products that combine exceptional UX with technical excellence.",
+"skills": [
+"React Native",
+"TypeScript",
+"Node.js",
+"AWS (Lambda, API Gateway, DynamoDB)",
+"Python",
+"iOS and Android development",
+"Mobile architecture",
+"Serverless",
+"API design (REST, GraphQL)",
+"CI/CD (GitHub Actions, ArgoCD)",
+"Infrastructure as Code (Terraform)",
+"Contract testing (Pact)",
+"Event-driven architecture",
+"Kubernetes",
+"Observability (OpenTelemetry)",
+"Azure Functions"
+],
+"work_experience": [
+{
+"job_title": "Technical Director",
+"company": "Baby Point App Ltd",
+"location": "London / Remote, UK",
+"start_date": "Jan 2019",
+"end_date": "Apr 2020",
+"company_blurb": "Baby Point App Ltd was an early-stage startup that built a geolocation-based discovery app aimed at helping new and expectant parents effortlessly find baby-friendly places and resources nearby, using intelligent location insights to simplify local exploration for families.",
+"responsibilities": [
+"Led product and platform development for an offline-first mobile app serving new parents with hyper-local support and recommendations.",
+"Architected a geohash-based REST API to deliver region-specific parenting content with CDN edge distribution and efficient cache control.",
+"Designed and implemented a SQLite-backed spatial search engine for on-device geoJSON queries, enabling offline functionality.",
+"Developed a unified data-fetching and business logic layer shared across React Native and PWA clients to promote consistency and reuse.",
+"Built ingestion and publishing pipelines for geoJSON content, supporting low-latency mobile rendering.",
+"Operated hands-on across backend (Node.js + Azure Functions), mobile (React Native), and frontend (PWA)."
+],
+"achievements": [
+"Launched MVP that reached 10K organic users in under six months.",
+"Enabled fast, resilient mobile performance under poor connectivity through offline-first design.",
+"Reduced duplication and defects by sharing business logic between native and web clients."
+]
+},
+{
+"job_title": "Principal Software Engineer (Contract)",
+"company": "BrightInsight",
+"location": "Remote",
+"start_date": "Apr 2020",
+"end_date": "Apr 2024",
+"company_blurb": "BrightInsight is a leading global regulated digital health platform for biopharma and medtech, delivering prebuilt, compliant infrastructure (ISO 13485, HIPAA, GDPR, MDSAP) that accelerates time to market, supports millions of patients, manages over 20 million API calls per day, and scales securely across products, therapy areas, and global markets.",
+"responsibilities": [
+"Led cross-functional development of regulated digital health platforms using TypeScript/Node.js, Python, and Go across AWS, Azure, and GCP.",
+"Designed CI/CD pipelines with embedded DevSecOps gates using GitHub Actions, Terraform, and Ansible.",
+"Integrated contract testing (Pact) and consumer-driven development across eight global teams.",
+"Built compliance-aware APIs and services with observability and auditability from inception.",
+"Mentored engineers on regulated delivery, ML-integration, and cloud-native architecture.",
+"Applied modular microservice patterns and secure-by-default design in regulated environments."
+],
+"achievements": [
+"Improved detection of patient deterioration by 25% through ML-enabled predictive workflows.",
+"Standardised contract-first delivery with shared test harnesses, reducing cross-service integration issues.",
+"Reduced onboarding friction via self-describing APIs and composable modules."
+]
+},
+{
+"job_title": "Mobile Tech Lead (Contract)",
+"company": "Ernst & Young (EY)",
+"location": "London, UK",
+"start_date": "Sep 2014",
+"end_date": "Feb 2015",
+"company_blurb": "Ernst & Young (EY) is one of the Big Four professional services firms, operating across 150+ countries with over 200,000 people during 2014–2015, offering assurance, tax, transaction, and advisory services to global enterprises and governments.",
+"responsibilities": [
+"Led distributed teams delivering secure, cross-platform mobile applications for EY’s Fraud Investigation & Dispute Services division.",
+"Directed development across iOS, Android, Windows Phone, and Windows 8.1 with shared backends and unified deployment workflows.",
+"Implemented Citrix XenMobile-based MDM/MAM strategies for enterprise security.",
+"Designed federated identity solutions using OAuth2 and OpenID Connect for secure access control.",
+"Delivered rapid proof-of-concept apps using Xamarin, Cordova/PhoneGap, and ASP.NET WebAPI.",
+"Acted as technical integrator between mobile clients, cloud, and legacy authentication systems."
+],
+"achievements": [
+"Established a secure BYOD mobile architecture adopted for multiple internal enterprise apps.",
+"Reduced authentication complexity by introducing a unified standards-based identity layer."
+]
+}
+],
+"early_career": [
+{ "title": "Technical Lead", "company": "dunnhumby (via Parser Digital)", "dates": "2024 – Present" },
+{ "title": "Principal Solution Architect (Contract)", "company": "Philips", "dates": "2019 – 2020" },
+{ "title": "Principal Software Engineer (Contract)", "company": "Medisanté AG", "dates": "2017 – 2018" },
+{ "title": "Lead Mobile Developer (Contract)", "company": "Investec Bank Plc", "dates": "2017" },
+{ "title": "Lead Consultant", "company": "ThoughtWorks Ltd", "dates": "2015 – 2017" },
+{ "title": "Senior Engineer (Contract)", "company": "McKinsey Digital Labs", "dates": "2014" },
+{ "title": "Lead Engineer / Architect (Contract)", "company": "Blackthorn Technologies", "dates": "2013 – 2014" },
+{ "title": "Senior Analyst Engineer (Contract)", "company": "Credit Suisse", "dates": "2012 – 2013" },
+{ "title": "Engineering Manager (Contract)", "company": "Miomni LTD", "dates": "2012" },
+{ "title": "Senior Engineer (Contract)", "company": "Alpari UK", "dates": "2011 – 2012" },
+{ "title": "Lead Engineer", "company": "Just Eat", "dates": "2011" },
+{ "title": "AI Engineer (Contract)", "company": "Microsoft Research", "dates": "2011" },
+{ "title": "Lead Software Engineer (Contract)", "company": "How Splendid Ltd", "dates": "2010 – 2011" },
+{ "title": "Lead Software Engineer / Senior Engineer", "company": "Live Nation", "dates": "2008 – 2010" },
+{ "title": "Senior Engineer / Junior Developer", "company": "DesignSquad.net", "dates": "2001 – 2008" }
+]
+}
